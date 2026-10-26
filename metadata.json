@@ -1,0 +1,7 @@
+{
+  "name": "Myra AI - Android Personal AI Assistant",
+  "description": "Myra AI is an intelligent Android personal AI assistant supporting Hindi, English, and Urdu with voice recognition, text chat, device control simulation, and rich AI capabilities.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
